@@ -8,11 +8,11 @@ import { useState, useEffect, useRef, useCallback } from "react";
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ReferenceLine, ReferenceArea } from "recharts";
 
 const T = {
-  bg:           "#dfe2e8",
+  bg:           "#050810",
   panel:        "#060b12",
   panel2:       "#091018",
   panel3:       "#0c1420",
-  border:       "#99a5b0",
+  border:       "#1a2530",
   borderHi:     "#1a3550",
   borderGlow:   "#00d4ff18",
   accent:       "#00d4ff",
